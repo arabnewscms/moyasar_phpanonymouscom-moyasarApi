@@ -1,5 +1,5 @@
 {
-	"name":"moyasar_phpanonymouscom/moyasarApi",
+	"name":"moyasarphpanonymouscom/moyasarApi",
 	"description": "Moyasar Api Package With Laravel 5.0 above ^ created by phpanonymous :)",
 	"type":"package",
 	"license": "MIT",
@@ -21,7 +21,7 @@
 	},
 	"autoload":{
 		"psr-4":{
-			"Moyasar_phpanonymouscom\\MoyasarApi\\":"src/"
+			"Moyasarphpanonymouscom\\MoyasarApi\\":"src/"
 		}
 	},
 	"minimum-stability":"dev"
