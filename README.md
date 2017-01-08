@@ -3,7 +3,7 @@ Moyasar Api Package With Laravel 5.0 => 5.3 and above ^ created by phpanonymous 
 ## Installation
 run this commad on your composer 
 ``` 
-composer require moyasarphpanonymouscom/moyasarapi 
+composer require moyasarphpanonymouscom/moyasarapi:dev-master 
 ```
 
 #attention please
