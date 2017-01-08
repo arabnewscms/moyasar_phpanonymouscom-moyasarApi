@@ -1,0 +1,28 @@
+{
+	"name":"moyasar_phpanonymouscom/moyasarApi",
+	"description": "Moyasar Api Package With Laravel 5.0 above ^ created by phpanonymous :)",
+	"type":"package",
+	"license": "MIT",
+	"version":"1.0",
+	"keywords":["laravel","Moyasar","Payment","banking","API","getaway","integration","php","phpanonymous"],
+	"authors":[
+	{
+		"name":"PhPAnonymous Developers Group On Facebook",
+		"email":"admin@phpanonymous.com",
+		"homepage":"http://phpanonymous.com",
+		"role":"Developer"
+	}
+
+	],
+	"require":{
+		"php": ">= 5.5.0",
+		"guzzlehttp/guzzle": "^6.2"
+
+	},
+	"autoload":{
+		"psr-4":{
+			"Moyasar_phpanonymouscom\\MoyasarApi\\":"src/"
+		}
+	},
+	"minimum-stability":"dev"
+}
