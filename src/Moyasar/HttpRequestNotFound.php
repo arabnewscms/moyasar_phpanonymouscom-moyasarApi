@@ -1,6 +1,6 @@
 <?php
-namespace Moyasar_phpanonymouscom\MoyasarApi\Moyasar;
-use Moyasar_phpanonymouscom\MoyasarApi\MoyasarFaced;
+namespace Moyasarphpanonymouscom\MoyasarApi\Moyasar;
+use Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced;
 
 
 class HttpRequestNotFound extends \Exception

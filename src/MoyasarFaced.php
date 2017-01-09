@@ -1,5 +1,5 @@
 <?php
-namespace Moyasar_phpanonymouscom\MoyasarApi;
+namespace Moyasarphpanonymouscom\MoyasarApi;
 /*
    Please You May know about test key and live key please visit 
    https://moyasar.com/docs/api
@@ -9,10 +9,10 @@ namespace Moyasar_phpanonymouscom\MoyasarApi;
    https://www.fb.com/groups/anonymouses.developers
 */
 
-use Moyasar_phpanonymouscom\MoyasarApi\Moyasar\Client;
-use Moyasar_phpanonymouscom\MoyasarApi\Moyasar\Invoice;
-use Moyasar_phpanonymouscom\MoyasarApi\Moyasar\HttpRequestNotFound;
-use Moyasar_phpanonymouscom\MoyasarApi\Moyasar\Payment;
+use Moyasarphpanonymouscom\MoyasarApi\Moyasar\Client;
+use Moyasarphpanonymouscom\MoyasarApi\Moyasar\Invoice;
+use Moyasarphpanonymouscom\MoyasarApi\Moyasar\HttpRequestNotFound;
+use Moyasarphpanonymouscom\MoyasarApi\Moyasar\Payment;
 
 class MoyasarFaced{
     const AMOUNT      = Payment::AMOUNT;

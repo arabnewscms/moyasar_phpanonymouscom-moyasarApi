@@ -1,5 +1,5 @@
 <?php
-namespace Moyasar_phpanonymouscom\MoyasarApi;
+namespace Moyasarphpanonymouscom\MoyasarApi;
 /*
    Please You May know about test key and live key please visit 
    https://moyasar.com/docs/api
@@ -10,7 +10,7 @@ namespace Moyasar_phpanonymouscom\MoyasarApi;
 */
 
 use Illuminate\Support\ServiceProvider;
-use Moyasar_phpanonymouscom\MoyasarApi\MoyasarFaced;
+use Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced;
 
 class MoyasarProvider extends ServiceProvider
 {

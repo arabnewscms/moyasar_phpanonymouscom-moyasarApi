@@ -1,8 +1,8 @@
 <?php
-namespace Moyasar_phpanonymouscom\MoyasarApi\Moyasar;
+namespace Moyasarphpanonymouscom\MoyasarApi\Moyasar;
 use GuzzleHttp;
-use Moyasar_phpanonymouscom\MoyasarApi\Moyasar\HttpRequestNotFound;
-//use Moyasar_phpanonymouscom\MoyasarApi\MoyasarFaced;
+use Moyasarphpanonymouscom\MoyasarApi\Moyasar\HttpRequestNotFound;
+//use Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced;
 
 class Client // extends MoyasarFaced
 {
