@@ -87,7 +87,7 @@ use this method
 return Moyasar::PayAll();
 
 ```
-#defult methods By Moyasar Api
+#default methods By Moyasar Api
 ```php 
 // Client Class By Moyasar
 Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Client
