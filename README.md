@@ -87,6 +87,22 @@ use this method
 return Moyasar::PayAll();
 
 ```
+#defult methods By Moyasar Api
+```php 
+// Client Class By Moyasar
+Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Client
+// Invoice Class By Moyasar
+Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Invoice
+// Payment Class By Moyasar
+Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Payment
+// HttpRequestNotFound Class By Moyasar
+Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\HttpRequestNotFound
+// ============ OR You Can Add In aliases Array =============== //
+'Client'             =>Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Client::class,
+'Invoice'            =>Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Invoice::class,
+'Payment'            =>Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\Payment::class,
+'HttpRequestNotFound'=>Moyasarphpanonymouscom\MoyasarApi\MoyasarFaced\Moyasar\HttpRequestNotFound::class,
+```
 
 soon a simple video to usage it 
 if you have any questions can ask me in this group in facebook 
